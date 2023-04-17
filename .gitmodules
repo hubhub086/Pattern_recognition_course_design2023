@@ -1,0 +1,9 @@
+[submodule "demo code/SimCLR"]
+	path = demo code/SimCLR
+	url = https://github.com/sthalles/SimCLR.git
+[submodule "demo code/3DV-Action"]
+	path = demo code/3DV-Action
+	url = https://github.com/3huo/3DV-Action.git
+[submodule "demo code/moco"]
+	path = demo code/moco
+	url = https://github.com/facebookresearch/moco.git
